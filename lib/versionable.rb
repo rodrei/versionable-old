@@ -1,3 +1,2 @@
-module Versionable
-  # Your code goes here...
-end
+require 'versionable/version'
+require 'versionable/versionable'
